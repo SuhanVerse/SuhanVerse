@@ -14,7 +14,7 @@
 [![](https://visitcount.itsvg.in/api?id=Xenon62&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🤖 Enthusiast in Robotics, IoT, and Embedded Systems  
-- 💻 Experienced in C/C++, Python, Arduino, and MERN Stack  
+- 💻 Experienced in C/C++, Python, and Arduino 
 - 🎨 Skilled in UI/UX prototyping (Figma) and 3D modeling (Fusion 360)  
 - 🌱 Currently exploring Rust, Docker, and smart automation workflows  
 - 🤝 Open to collaboration on IoT projects, automation systems, and tech events  
