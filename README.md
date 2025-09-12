@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-[![](https://visitcount.itsvg.in/api?id=Xenon62&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SuhanVerse&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🤖 Enthusiast in Robotics, IoT, and Embedded Systems  
 - 💻 Experienced in C/C++, Python, and Arduino 
@@ -50,11 +50,11 @@
 ### 📊 GitHub Stats
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Xenon62&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Xenon62&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenon62&theme=ayu-mirage&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=false&layout=compact" alt="Top Languages" />
 
 ---
 
