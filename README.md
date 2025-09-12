@@ -71,7 +71,6 @@
 <p align="center">
   <a href="https://x.com/ultraman_62" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="40" alt="X" /></a>
   <a href="https://www.linkedin.com/in/suhan-khadka" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" /></a>
   <a href="https://facebook.com/suhan.khadka.35" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" /></a>
   <a href="https://instagram.com/suhan.khadka.30" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
   <a href="mailto:khsuhan100@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
