@@ -11,7 +11,6 @@
 ---
 
 ### 👨‍💻 About Me
-[![](https://visitcount.itsvg.in/api?id=SuhanVerse&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🤖 Enthusiast in Robotics, IoT, and Embedded Systems  
 - 💻 Experienced in C/C++, Python, and Arduino 
@@ -24,31 +23,36 @@
 ### 💻 Tech Stack
 
 <p align="center">
+  <!-- Row 1: Languages & Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=rust&theme=light" height="40" alt="Rust" />
   <img src="https://skillicons.dev/icons?i=bash&theme=light" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+<p align="center">
+  <!-- Row 2: Platforms, Design, ML, Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="40" alt="Fusion 360" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="40" alt="Fusion 360" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
+  [![](https://visitcount.itsvg.in/api?id=SuhanVerse&label=Profile%20Views&color=0&icon=0)](https://github.com/SuhanVerse)
 
   <img src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
