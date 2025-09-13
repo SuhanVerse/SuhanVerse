@@ -1,5 +1,4 @@
-![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
+![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,20 +7,21 @@
 </div>
 
 <p align="center">
-  <b>Computer Engineering Student • Robotics & IoT Explorer • Software meets Hardware</b><br>
-  <i>Turning code into motion, and circuits into smart systems</i>
+  <strong>Computer Engineering Student • Robotics & IoT Explorer • Software meets Hardware</strong><br>
+  <em>Turning code into motion, and circuits into smart systems</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
 [![Profile Views](https://komarev.com/ghpvc/?username=SuhanVerse&label=Profile%20Views&color=orange)](https://github.com/SuhanVerse)
 
-- 🤖 Enthusiast in Robotics, IoT, and Embedded Systems  
-- 💻 Experienced in C/C++, Python, and Arduino  
-- 🎨 Skilled in UI/UX prototyping (Figma) and 3D modeling (Fusion 360)  
-- 🌱 Currently exploring Rust, Docker, and smart automation workflows  
-- 🤝 Open to collaboration on IoT projects, automation systems, and tech events  
+- 🤖 Passionate about Robotics, IoT, and Embedded Systems  
+- 💻 Experienced in **C/C++**, **Python**, and **Arduino**  
+- 🎨 Skilled in **UI/UX prototyping (Figma)** and **3D modeling (Fusion 360)**  
+- 🧪 Exploring **Rust**, **Docker**, and smart automation workflows  
+- 🤝 Open to collaboration on **IoT projects**, **automation systems**, and **tech events**
 
 ---
 
