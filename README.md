@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
