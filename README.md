@@ -59,36 +59,22 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=false&layout=compact" alt="Top Languages" />
-</p> -->
-<p align="center">
-  <!-- Main Stats -->
+ <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1000" 
     alt="GitHub Stats" 
   />
-  <br><br>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" 
+  <br>
+ <img 
+    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1000" 
     alt="GitHub Streak" 
   />
-  <br><br>
-
-  <!-- Top Languages -->
+  <br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=true&layout=compact&langs_count=8&cache_seconds=1000" 
     alt="Top Languages" 
   />
-</p>
-
-
+</p> 
 
 ---
 
