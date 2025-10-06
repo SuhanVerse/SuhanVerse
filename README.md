@@ -66,7 +66,7 @@
   />
   <br>
  <img 
-    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1000" 
+    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=100" 
     alt="GitHub Streak" 
   />
   <br>
