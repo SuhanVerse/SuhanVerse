@@ -61,17 +61,17 @@
 
  <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1000" 
+    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=500" 
     alt="GitHub Stats" 
   />
   <br>
  <img 
-    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=100" 
+    src="https://streak-stats.demolab.com?user=SuhanVerse&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=500" 
     alt="GitHub Streak" 
   />
   <br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=true&layout=compact&cache_seconds=1000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=true&layout=compact&cache_seconds=500" 
     alt="Top Languages" 
   />
 </p> 
