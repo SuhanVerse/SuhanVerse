@@ -61,7 +61,7 @@
 
  <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=500" 
+    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=500" 
     alt="GitHub Stats" 
   />
   <br>
