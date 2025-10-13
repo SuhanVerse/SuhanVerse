@@ -61,27 +61,33 @@
 
 ### 🔹 Profile Summary Cards
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="Profile Details" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" alt="Most Commit Language" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/3-stats.svg" alt="GitHub Stats Summary" />
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" alt="Commit Activity by Time" />
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="Profile Details" width="800"/>
+  <br><br>
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
+  <br><br>
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/3-stats.svg" alt="GitHub Stats Summary" width="400"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" alt="Commit Activity by Time" width="400"/>
 </p>
 
 ### 🔹 Metrics Dashboard
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" alt="Overview Metrics" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/languages.svg" alt="Languages Metrics" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" alt="Habits Metrics" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" />
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" alt="Overview Metrics" width="800"/>
+  <br><br>
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/languages.svg" alt="Languages Metrics" width="400"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" alt="Habits Metrics" width="400"/>
+  <br><br>
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" width="800"/>
 </p>
 
 ---
+
 
 ## 📫 Connect With Me
 
