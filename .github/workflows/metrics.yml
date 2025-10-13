@@ -21,24 +21,6 @@ jobs:
           config_timezone: Asia/Kathmandu
           filename: metrics/overview.svg
 
-      # Languages card
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: SuhanVerse
-          template: classic
-          base: ""
-          config_timezone: Asia/Kathmandu
-          filename: metrics/languages.svg
-
-          plugin_languages: yes
-          plugin_languages_ignored: |
-            html
-            css
-          plugin_languages_details: "bytes-size, percentage, lines"   # 👈 ensures names + percentages
-          plugin_languages_limit: 0   # 0 = no limit, show all languages
-          plugin_languages_sections: most-used   # 👈 ensures main breakdown is shown
-
       # Habits card
       - uses: lowlighter/metrics@latest
         with:
