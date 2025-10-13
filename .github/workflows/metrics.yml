@@ -20,7 +20,7 @@ jobs:
           config_timezone: Asia/Kathmandu
 
           # Hide less relevant stats
-          config_hide: issues, prs, followers, stars, forks
+          # config_hide: issues, prs, followers, stars, forks
 
           # --- Plugins for richer stats ---
           plugin_languages: yes

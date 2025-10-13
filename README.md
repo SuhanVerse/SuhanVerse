@@ -59,22 +59,42 @@
 
 ### 📊 GitHub Stats
 
- <p align="center">
+<p align="center">
+
+  <!-- GitHub Profile Summary Cards -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=500" 
-    alt="GitHub Stats" 
-  />
-  <br>
- <img 
-    src="https://streak-stats.demolab.com/?user=SuhanVerse&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=500" 
-    alt="GitHub Streak" 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg" 
+    alt="Profile Details" 
   />
   <br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanVerse&theme=ayu-mirage&hide_border=false&cache_seconds=500" 
-    alt="Top Languages" 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" 
+    alt="Repos per Language" 
   />
-</p> 
+  <img 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" 
+    alt="Most Commit Language" 
+  />
+  <br>
+  <img 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/3-stats.svg" 
+    alt="GitHub Stats Summary" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg" 
+    alt="Commit Activity by Time" 
+  />
+
+  <br><br>
+
+  <!-- GitHub Metrics -->
+  <img 
+    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/github-metrics.svg" 
+    alt="GitHub Metrics" 
+  />
+
+</p>
+
 
 ---
 
