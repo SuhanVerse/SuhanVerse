@@ -62,15 +62,15 @@
 ### 🔹 Profile Summary Cards
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="Profile Details" width="700"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="Profile Details" width="700"/>
   <br><br>
   <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" alt="Repos per Language" width="350"/>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" alt="Most Commit Language" width="350"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language" width="350"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language" width="350"/>
   <br><br>
   <!-- Row 3 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/3-stats.svg" alt="GitHub Stats Summary" width="350"/>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" alt="Commit Activity by Time" width="350"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/3-stats.svg" alt="GitHub Stats Summary" width="350"/>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" alt="Commit Activity by Time" width="350"/>
 </p>
 
 ### 🔹 Metrics Dashboard
