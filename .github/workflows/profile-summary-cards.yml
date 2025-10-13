@@ -15,4 +15,8 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: SuhanVerse
-          THEME: ayu_mirage
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.75
+          AUTO_PUSH: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
