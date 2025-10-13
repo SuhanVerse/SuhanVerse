@@ -1,9 +1,11 @@
 name: GitHub Profile Summary Cards
 
 on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:       # allow manual trigger
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -13,3 +15,4 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: SuhanVerse
+          THEME: ayu_mirage
