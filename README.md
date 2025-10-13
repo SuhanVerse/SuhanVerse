@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B42&center=true&vCenter=true&width=435&lines=Hi%2C+I%60m+Suhan+Khadka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B42&center=true&vCenter=true&width=500&lines=Hi%2C+I%60m+Suhan+Khadka;Robotics+%26+IoT+Explorer;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,11 +13,11 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SuhanVerse&label=Profile%20Views&color=orange)](https://github.com/SuhanVerse)
 
-- 🤖 Passionate about Robotics, IoT, and Embedded Systems  
+- 🤖 Passionate about **Robotics, IoT, and Embedded Systems**  
 - 💻 Experienced in **C/C++**, **Python**, and **Arduino**  
 - 🎨 Skilled in **UI/UX prototyping (Figma)** and **3D modeling (Fusion 360)**  
 - 🧪 Exploring **Rust**, **Docker**, and smart automation workflows  
@@ -25,80 +25,69 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-<!-- Row 1: Languages & Core Tools -->
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=light" height="40" alt="Rust" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" alt="Bash" /></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></a>
-  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=markdown" height="40" alt="Markdown" /></a>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="Markdown" />
 </p>
 
-<!-- Row 2: Platforms, Design, ML, Hardware -->
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" /></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /></a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="40" alt="Fusion 360" /></a>
+  <!-- Platforms & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="40" alt="Fusion 360" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
+### 🔹 Profile Summary Cards
 <p align="center">
-
-  <!-- GitHub Profile Summary Cards -->
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg" 
-    alt="Profile Details" 
-  />
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="Profile Details" />
   <br>
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" 
-    alt="Repos per Language" 
-  />
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" 
-    alt="Most Commit Language" 
-  />
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" alt="Most Commit Language" />
   <br>
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/3-stats.svg" 
-    alt="GitHub Stats Summary" 
-  />
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg" 
-    alt="Commit Activity by Time" 
-  />
-
-  <br><br>
-
-  <!-- GitHub Metrics -->
-  <img 
-    src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/master/github-metrics.svg" 
-    alt="GitHub Metrics" 
-  />
-
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/3-stats.svg" alt="GitHub Stats Summary" />
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" alt="Commit Activity by Time" />
 </p>
 
+### 🔹 Metrics Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" alt="Overview Metrics" />
+  <br>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/languages.svg" alt="Languages Metrics" />
+  <br>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" alt="Habits Metrics" />
+  <br>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/achievements.svg" alt="Achievements Metrics" />
+  <br>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/featured.svg" alt="Featured Repositories Metrics" />
+  <br>
+  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" />
+</p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://x.com/ultraman_62" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="40" alt="X" /></a>
