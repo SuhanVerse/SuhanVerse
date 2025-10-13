@@ -78,10 +78,6 @@
   <br>
   <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" alt="Habits Metrics" />
   <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/achievements.svg" alt="Achievements Metrics" />
-  <br>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/featured.svg" alt="Featured Repositories Metrics" />
-  <br>
   <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" />
 </p>
 
