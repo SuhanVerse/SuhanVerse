@@ -54,37 +54,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="50" alt="Fusion 360" />
 </p>
-
 ---
-
 
 ## 📊 GitHub Stats
 
-### 🔹 Profile Summary Cards
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="Profile Details" width="700"/>
-  <br><br>
-  <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language" width="350"/>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language" width="350"/>
-  <br><br>
-  <!-- Row 3 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/3-stats.svg" alt="GitHub Stats Summary" width="350"/>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" alt="Commit Activity by Time" width="350"/>
-</p>
+| Profile Details |
+|-----------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="700"/> |
 
-### 🔹 Metrics Dashboard
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" alt="Overview Metrics" width="550"/>
-  <br><br>
-  <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" alt="Habits Metrics" width="550"/>
-  <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" width="1000"/>
-</p>
+| Repos per Language | Most Commit Language |
+|--------------------|----------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="350"/> |
+
+| GitHub Stats Summary | Commit Activity by Time |
+|----------------------|-------------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/3-stats.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" width="350"/> |
 
 ---
+
+| Overview Metrics |
+|------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="600"/> |
+
+| Habits Metrics |
+|----------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
+
+| Contribution Calendar |
+|-----------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" width="1000"/> |
+
+---
+
 
 ## 📫 Connect With Me
 
