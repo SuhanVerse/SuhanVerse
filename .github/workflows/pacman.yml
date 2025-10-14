@@ -1,4 +1,4 @@
-name: generate pacman game
+name: PACMAN GAME
 
 on:
   schedule: # run automatically every 24 hours
