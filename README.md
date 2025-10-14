@@ -80,13 +80,17 @@
 |----------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
 
-| Pac‑Man Contribution Graph |
-|----------------------------|
-| <picture>
+---
+
+<img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" alt="Contribution Calendar" width="1000"> 
+
+<div>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg">
-    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" width="800">
-  </picture> |
+    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" width="1000">
+  </picture>
+</div>
 
 ---
 
