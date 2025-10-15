@@ -55,22 +55,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="50" alt="Fusion 360" />
 </p>
 
+
 ---
 
 | GitHub Metrics Overview |
 |--------------------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="700"/> |
 
-<!--
-| Habits | Streaks |
-|--------|---------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/streak.svg" width="350"/> |
-
-| Contribution Calendar |
-|-----------------------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" width="700"/> |  -->
-
 ---
+
+## 🗂️ Profile Summary Cards
 
 | Profile Details |
 |-----------------|
@@ -84,10 +78,9 @@
 |--------------------|----------------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="350"/> |
 
-<!--| GitHub Stats Summary | Commit Activity by Time |
+| GitHub Stats Summary | Commit Activity by Time |
 |----------------------|-------------------------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/3-stats.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" width="350"/> |
--->
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/3-stats.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="350"/> |
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false&count_private=true&include_all_commits=true" width="600" alt="GitHub Streak Stats"/>
 
@@ -95,28 +88,14 @@
 
 | Pac‑Man Contribution Graph |
 |----------------------------|
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/Pacman/pacman-contribution-graph.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/Pacman/pacman-contribution-graph.svg#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/Pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/Pacman/pacman-contribution-graph.svg">
   <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/Pacman/pacman-contribution-graph.svg" width="990">
 </picture>
 
 ---
-
-
-<!--| Contribution Calendar |
-|-----------------------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" width="800"/> |
-
-<div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false&count_private=true&include_all_commits=true" width="600" alt="GitHub Streak Stats"/>
-</div>
--->
-
-<!--| Habits Metrics |
-|----------------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
--->
 
 ## 📫 Connect With Me
 

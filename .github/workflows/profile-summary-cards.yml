@@ -5,29 +5,20 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "15 18,6 * * *"
+    - cron: "15 18,6 * * *"   # runs 00:00 and 12:00 Nepal time
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate summary cards (light)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          USERNAME: SuhanVerse
-          BRANCH_NAME: main
-          UTC_OFFSET: 5.75
-          AUTO_PUSH: false
-          THEME: github
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-      - run: |
-          mkdir -p profile-summary-card-output/light
-          mv profile-summary-card-output/github/* profile-summary-card-output/light/ || true
+          fetch-depth: 0
 
-      - name: Generate summary cards (dark)
+      # Theme 1: nord_dark (will be moved to /dark)
+      - name: Generate summary cards (nord_dark)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: SuhanVerse
@@ -41,12 +32,52 @@ jobs:
           mkdir -p profile-summary-card-output/dark
           mv profile-summary-card-output/nord_dark/* profile-summary-card-output/dark/ || true
 
-      - name: Commit and push
+      # Theme 2: github (will be moved to /light)
+      - name: Generate summary cards (github)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: SuhanVerse
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.75
+          AUTO_PUSH: false
+          THEME: github
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - run: |
+          mkdir -p profile-summary-card-output/light
+          mv profile-summary-card-output/github/* profile-summary-card-output/light/ || true
+
+      # Theme 3: github_dark (kept as-is)
+      - name: Generate summary cards (github_dark)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: SuhanVerse
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.75
+          AUTO_PUSH: false
+          THEME: github_dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      # Theme 4: discord_old_blurple (kept as-is)
+      - name: Generate summary cards (discord_old_blurple)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: SuhanVerse
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.75
+          AUTO_PUSH: false
+          THEME: discord_old_blurple
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      # Commit all theme folders as generated
+      - name: Commit and push cards
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-summary-card-output/
-          git commit -m "Update profile summary cards (light + dark) [skip ci]" || echo "No changes to commit"
+          git commit -m "Update profile summary cards (light, dark, github_dark, discord_old_blurple) [skip ci]" || echo "No changes to commit"
           git push origin main --force
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}

@@ -5,10 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "15 18,6 * * *"   # midnight + noon Nepal time
+    - cron: "15 18,6 * * *"   # runs 00:00 and 12:00 Nepal time
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,19 +20,15 @@ jobs:
           template: classic
           config_timezone: Asia/Kathmandu
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: SuhanVerse, khsuhan100@gmail.com
-          output_action: commit
-          filename: |
-            metrics/overview.svg
-            metrics/habits.svg
-            metrics/calendar.svg
+
+          # Ensure commits are attributed correctly (add all emails you've used)
+          commits_authoring: |
+            SuhanVerse
+            khsuhan100@gmail.com
+
+          # Only generate overview
+          filename: metrics/overview.svg
           base: header, activity, community, repositories, metadata
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Always produce a commit output when run
+          output_action: commit
