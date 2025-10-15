@@ -76,9 +76,10 @@
 |------------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="600"/> |
 
-| Habits Metrics |
+<!--| Habits Metrics |
 |----------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
+-->
 
 ---
 
