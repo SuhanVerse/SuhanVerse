@@ -73,20 +73,31 @@
 
 ---
 
-| Overview Metrics |
-|------------------|
+## 📊 GitHub Metrics Dashboard
+
+| Overview |
+|----------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="600"/> |
+
+| Habits | Streaks |
+|--------|---------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="400"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/streak.svg" width="400"/> |
+
+---
+
+<!--| Contribution Calendar |
+|-----------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" width="800"/> |
 
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false&count_private=true&include_all_commits=true" width="600" alt="GitHub Streak Stats"/>
 </div>
+-->
 
 <!--| Habits Metrics |
 |----------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
 -->
-
----
 
 | Pac‑Man Contribution Graph |
 |----------------------------|
