@@ -77,6 +77,10 @@
 |------------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="600"/> |
 
+<div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SuhanVerse&theme=ayu-mirage&hide_border=false&count_private=true&include_all_commits=true" width="600" alt="GitHub Streak Stats"/>
+</div>
+
 <!--| Habits Metrics |
 |----------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
