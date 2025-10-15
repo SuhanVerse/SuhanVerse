@@ -78,7 +78,7 @@
 | Pac‑Man Contribution Graph |
 |----------------------------|
 
-<img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" width="990" alt="Pac‑Man contribution graph"/>
+<img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg" width="990" alt="Pac‑Man contribution graph"/>
 
 ---
 
