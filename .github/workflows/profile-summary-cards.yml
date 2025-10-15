@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "15 18,6 * * *"   # midnight + noon Nepal time
+    - cron: "15 18,6 * * *"
 
 jobs:
   build:
@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Generate cards in light theme
       - name: Generate summary cards (light)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
@@ -28,28 +27,6 @@ jobs:
           mkdir -p profile-summary-card-output/light
           mv profile-summary-card-output/github/* profile-summary-card-output/light/ || true
 
-      # Generate cards in dark theme
       - name: Generate summary cards (dark)
         uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: SuhanVerse
-          BRANCH_NAME: main
-          UTC_OFFSET: 5.75
-          AUTO_PUSH: false
-          THEME: nord_dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-      - run: |
-          mkdir -p profile-summary-card-output/dark
-          mv profile-summary-card-output/nord_dark/* profile-summary-card-output/dark/ || true
-
-      # Commit both sets back to main
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/
-          git commit -m "Update profile summary cards (light + dark) [skip ci]" || echo "No changes to commit"
-          git push origin main --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with
