@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 18,6 * * *"   # midnight + noon Nepal time
 
 jobs:
   build:
@@ -19,4 +19,4 @@ jobs:
           UTC_OFFSET: 5.75
           AUTO_PUSH: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
