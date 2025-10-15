@@ -19,22 +19,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Pac-Man Graph (Light)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+      - run: |
+          mkdir -p Pacman
+          mv dist/pacman-contribution-graph.svg Pacman/pacman-contribution-graph.svg
 
-      - name: Move generated file
-        run: |
-          mkdir -p pacman
-          mv dist/pacman-contribution-graph.svg pacman/
+      - name: Generate Pac-Man Graph (Dark)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          theme: dark
+      - run: |
+          mv dist/pacman-contribution-graph.svg Pacman/pacman-contribution-graph-dark.svg
 
       - name: Commit and push to main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pacman/pacman-contribution-graph.svg
-          git commit -m "Update Pac-Man contribution graph [skip ci]" || echo "No changes to commit"
+          git add Pacman/pacman-contribution-graph*.svg
+          git commit -m "Update Pac-Man contribution graphs [skip ci]" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
