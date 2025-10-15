@@ -57,7 +57,22 @@
 
 ---
 
-## 📊 GitHub Stats
+| GitHub Metrics Overview |
+|--------------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="700"/> |
+
+<!--
+| Habits | Streaks |
+|--------|---------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/streak.svg" width="350"/> |
+
+| Contribution Calendar |
+|-----------------------|
+| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/calendar.svg" width="700"/> |  -->
+
+---
+
+## 🗂️ Profile Summary Cards
 
 | Profile Details |
 |-----------------|
@@ -73,15 +88,13 @@
 
 ---
 
-## 📊 GitHub Metrics Dashboard
-
-| Overview |
-|----------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/overview.svg" width="600"/> |
-
-| Habits | Streaks |
-|--------|---------|
-| <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="400"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/streak.svg" width="400"/> |
+| Pac‑Man Contribution Graph |
+|----------------------------|
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg">
+    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" width="990">
+  </picture>
 
 ---
 
@@ -98,17 +111,6 @@
 |----------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/metrics/habits.svg" width="600"/> |
 -->
-
-| Pac‑Man Contribution Graph |
-|----------------------------|
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg">
-    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" width="990">
-  </picture>
-
----
-
 
 ## 📫 Connect With Me
 
