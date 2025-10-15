@@ -18,21 +18,20 @@ jobs:
           template: classic
           config_timezone: Asia/Kathmandu
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: SuhanVerse
+          commits_authoring: SuhanVerse, khsuhan100@gmail.com
           filename: |
             metrics/overview.svg
             metrics/habits.svg
             metrics/calendar.svg
-            metrics/streak.svg
           base: header, activity, community, repositories, metadata
+
+          # Habits plugin
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_streak: yes
-          plugin_streak_days: 365
-          plugin_streak_sections: current, longest
-          plugin_streak_charts: yes
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
