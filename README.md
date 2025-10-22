@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" />
+  <img src="https://skillicons.dev/icons?i=ros" height="50" alt="ROS 2" />
 </p>
 
 <p align="center">
@@ -53,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="50" alt="Fusion 360" />
-  <img src="https://skillicons.dev/icons?i=ros" height="50" alt="ROS 2" />
 </p>
 
 ---
