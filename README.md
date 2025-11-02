@@ -65,7 +65,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/light/0-profile-details.svg">
   <img alt="Profile Details" src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/light/0-profile-details.svg" width="700">
 </picture>
-
+<!--REPO CARDS--> 
 | Repos per Language | Most Commit Language |
 |--------------------|----------------------|
 | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="350"/> | <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="350"/> |
@@ -76,7 +76,7 @@
 
 | Pac‑Man Contribution Graph |
 |----------------------------|
-<!-- PACMAN game-->
+<!-- PACMAN GAME-->
 <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg" width="990" alt="Pac‑Man contribution graph"/>
 
 ---
