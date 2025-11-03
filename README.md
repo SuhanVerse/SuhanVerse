@@ -82,7 +82,7 @@
 ---
 
 ## 📫 Connect With Me
-
+<!-- Social Links -->
 <p align="center">
   <a href="https://x.com/ultraman_62" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="40" alt="X" /></a>
   <a href="https://www.linkedin.com/in/suhan-khadka" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
