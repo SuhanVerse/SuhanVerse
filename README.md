@@ -12,7 +12,7 @@
 </p>
 
 ---
-<!--Sugar slash s-->
+<!--Sugar slash slayer-->
 ## 👨‍💻 About Me
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SuhanVerse&label=Profile%20Views&color=orange)](https://github.com/SuhanVerse)
