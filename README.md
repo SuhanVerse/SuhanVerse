@@ -22,7 +22,7 @@
 - 🎨 Skilled in **UI/UX prototyping (Figma)** and **3D modeling (Fusion 360)**  
 - 🧪 Exploring **Rust**, **Docker**, and smart automation workflows  
 - 🤝 Open to collaboration on **IoT projects**, **automation systems**, and **tech events**
-
+<!-- add other achievements too -->
 ---
 
 ## 💻 Tech Stack
