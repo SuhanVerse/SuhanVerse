@@ -13,11 +13,6 @@
 
 I'm a computer engineering student from Nepal. I work with Arduino and ESP32, write C/C++ and Python, and keep my robot builds, experiments, and the software around them here.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/robotics-workbench-compact.svg">
-  <img src="assets/robotics-workbench.svg" alt="Robotics workbench illustration: an ultrasonic sensor feeds a controller, which drives a four-wheel rover.">
-</picture>
-
 ## Projects & experiments
 
 ### [All-in-One Arduino Robot](https://github.com/SuhanVerse/All_in_one_Arduino_Robot)
