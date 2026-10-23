@@ -1,12 +1,22 @@
 ![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# Suhan Khadka
+<h1 align="center">Suhan Khadka</h1>
 
-**I like turning code into machines.**
+<p align="center">
+  <img src="assets/typing-intro.svg" width="640" alt="Turning code into machines. Robotics and embedded systems. Learning by building.">
+</p>
 
-I'm a computer engineering student from Nepal, interested in robotics and embedded systems. I work with Arduino and ESP32, write C/C++ and Python, and keep my robot builds, experiments, and the software around them here.
+<p align="center">
+  <strong>Computer Engineering Student • Robotics & IoT Explorer • Software meets Hardware</strong><br>
+  <em>Turning code into motion, and circuits into smart systems</em>
+</p>
 
-[Website](https://suhankhadka.com.np/) · [LinkedIn](https://www.linkedin.com/in/suhan-khadka/) · [Email](mailto:khsuhan100@gmail.com)
+I'm a computer engineering student from Nepal. I work with Arduino and ESP32, write C/C++ and Python, and keep my robot builds, experiments, and the software around them here.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/robotics-workbench-compact.svg">
+  <img src="assets/robotics-workbench.svg" alt="Robotics workbench illustration: an ultrasonic sensor feeds a controller, which drives a four-wheel rover.">
+</picture>
 
 ## Projects & experiments
 
@@ -30,23 +40,47 @@ An academic team project for managing robotics-club equipment and loans. Built w
 
 My academic minor project: an Android app for finding tutors and requesting enrollment, built with React Native and a shared Firebase/Supabase backend. Still in development.
 
-## On my workbench
+## My toolkit
 
-- **Hardware:** Arduino, ESP32, sensors, and motor control.
-- **Code:** C/C++, Python, and TypeScript.
-- **Robotics:** ROS 2, Gazebo, Nav2, and YOLOv8.
-- **Tools:** Linux, Git, Docker, Fusion 360, and Figma.
+<p align="center"><strong>Code & firmware</strong></p>
+<p align="center">
+  <img src="assets/icons/c.svg" width="44" height="44" alt="C">
+  <img src="assets/icons/cpp.svg" width="44" height="44" alt="C++">
+  <img src="assets/icons/python.svg" width="44" height="44" alt="Python">
+  <img src="assets/icons/rust.svg" width="44" height="44" alt="Rust">
+  <img src="assets/icons/typescript.svg" width="44" height="44" alt="TypeScript">
+  <img src="assets/icons/arduino.svg" width="44" height="44" alt="Arduino">
+</p>
 
-I'm learning more about robot navigation, perception, and embedded Rust. If you're working on a robot or an embedded project, I'd be happy to compare notes.
+<p align="center"><strong>Robotics, tools & design</strong></p>
+<p align="center">
+  <img src="assets/icons/ros.svg" width="44" height="44" alt="ROS 2">
+  <img src="assets/icons/linux.svg" width="44" height="44" alt="Linux">
+  <img src="assets/icons/docker.svg" width="44" height="44" alt="Docker">
+  <img src="assets/icons/git.svg" width="44" height="44" alt="Git">
+  <img src="assets/icons/fusion.svg" width="44" height="44" alt="Fusion 360">
+  <img src="assets/icons/figma.svg" width="44" height="44" alt="Figma">
+</p>
 
-<details>
-<summary>A little Pac-Man</summary>
+I'm learning more about robot navigation, perception, and embedded Rust.
 
-My GitHub contribution graph, with a nod to the gaming side.
+## A little Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/SuhanVerse/SuhanVerse/output/pacman-contribution-graph.svg" alt="Pac-Man moving through my GitHub contribution graph">
 </picture>
 
-</details>
+## Connect
+
+If you're working on a robot or an embedded project, I'd be happy to compare notes.
+
+<p align="center">
+  <a href="https://x.com/ultraman_62"><img src="assets/icons/x.svg" width="44" height="44" alt="X"></a>
+  <a href="https://www.linkedin.com/in/suhan-khadka"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn"></a>
+  <a href="https://facebook.com/suhan.khadka.35"><img src="assets/icons/facebook.svg" width="44" height="44" alt="Facebook"></a>
+  <a href="https://instagram.com/suhan.khadka.30"><img src="assets/icons/instagram.svg" width="44" height="44" alt="Instagram"></a>
+  <a href="mailto:khsuhan100@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Email"></a>
+</p>
+
+<p align="center"><a href="https://suhankhadka.com.np/">suhankhadka.com.np</a></p>

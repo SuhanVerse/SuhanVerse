@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title description">
+<title id="title">Sense, Code, Move — conceptual robotics workbench</title>
+<desc id="description">A compact original engineering illustration connects a cyan dual ultrasonic sensor to a green controller board above a four-wheel rover. Large Sense, Code and Move labels show the conceptual path from sensors to firmware to motors and wheels. This is a conceptual illustration, not a photograph or a device schematic.</desc>
+<defs>
+  <pattern id="bench-grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#243347"/></pattern>
+  <marker id="signal-arrow" markerWidth="7" markerHeight="7" refX="5.8" refY="3.5" orient="auto"><path d="M1 1 5.7 3.5 1 6" fill="none" stroke="#8b949e" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <g id="sonar" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 21Q-3 36 9 51M-2 14Q-21 36-2 58M178 21Q190 36 178 51M189 14Q208 36 189 58" fill="none" stroke="#58a6ff" stroke-width="2" opacity=".7"/>
+    <rect x="15" y="0" width="157" height="73" rx="7" fill="#11263b" stroke="#58a6ff" stroke-width="2"/>
+    <path d="M26 11h136M26 62h136" fill="none" stroke="#284966"/>
+    <g fill="#0d1117" stroke="#8bcbff" stroke-width="2">
+      <circle cx="57" cy="36" r="26"/><circle cx="130" cy="36" r="26"/>
+    </g>
+    <g fill="#17364d" stroke="#58a6ff" stroke-width="1.5">
+      <circle cx="57" cy="36" r="19"/><circle cx="130" cy="36" r="19"/>
+    </g>
+    <g fill="none" stroke="#7bc4ff" stroke-width="1" opacity=".65">
+      <circle cx="57" cy="36" r="11"/><circle cx="130" cy="36" r="11"/>
+      <path d="M34 36h46M57 13v46M107 36h46M130 13v46"/>
+    </g>
+    <g fill="#58a6ff"><circle cx="24" cy="9" r="2"/><circle cx="163" cy="9" r="2"/><circle cx="24" cy="64" r="2"/><circle cx="163" cy="64" r="2"/></g>
+    <path d="M79 73v14M89 73v14M99 73v14M109 73v14" stroke="#e5b876" stroke-width="4"/>
+    <rect x="74" y="70" width="40" height="8" rx="1" fill="#263344"/>
+  </g>
+  <g id="controller" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="218" height="139" rx="10" fill="#10271e" stroke="#3fb950" stroke-width="2"/>
+    <g fill="#0d1117" stroke="#4f7d5c" stroke-width="2"><circle cx="13" cy="13" r="4"/><circle cx="205" cy="13" r="4"/><circle cx="13" cy="126" r="4"/><circle cx="205" cy="126" r="4"/></g>
+    <g fill="none" stroke="#397c4a" stroke-width="2">
+      <path d="M29 27h30l20 21h14M29 43h24l25 20h15M29 98h31l18-18h15M29 114h40l20-20h4M126 46h22l18-19h23M126 61h33l14-15h16M126 80h24l23 20h16M126 94h16l19 20h28"/>
+      <path d="M105 22v15M116 22v15M105 105v17M116 105v17"/>
+    </g>
+    <g fill="#e2b96c"><path d="M20 23h9v9h-9zM20 39h9v9h-9zM20 94h9v9h-9zM20 110h9v9h-9zM189 23h9v9h-9zM189 42h9v9h-9zM189 95h9v9h-9zM189 110h9v9h-9z"/></g>
+    <rect x="83" y="39" width="54" height="64" rx="3" fill="#0d1117" stroke="#a7bdaf" stroke-width="1.5"/>
+    <g stroke="#9faeb9" stroke-width="3"><path d="M76 47h7M76 58h7M76 69h7M76 80h7M76 91h7M137 47h7M137 58h7M137 69h7M137 80h7M137 91h7"/></g>
+    <path d="m98 61-8 10 8 10m23-20 8 10-8 10m-9-24-6 28" fill="none" stroke="#d5f7dd" stroke-width="2.5"/>
+    <rect x="39" y="57" width="20" height="26" rx="2" fill="#182f25" stroke="#7fa48a"/>
+    <rect x="157" y="64" width="30" height="15" rx="3" fill="#a5b6b0"/>
+    <path d="M164 68h16M164 74h16" stroke="#567064"/>
+    <circle cx="169" cy="16" r="3" fill="#3fb950"/><circle cx="181" cy="16" r="3" fill="#8b949e"/>
+  </g>
+  <g id="wheel" stroke-linejoin="round">
+    <path d="M-16-21 0-29C13-33 27-18 27-1S14 29 1 29L-15 22" fill="#101b2c" stroke="#64758c" stroke-width="1.7"/>
+    <ellipse cx="-8" cy="1" rx="20" ry="26" fill="#0b1017" stroke="#99a7b8" stroke-width="1.8"/>
+    <ellipse cx="-8" cy="1" rx="10" ry="15" fill="#203044" stroke="#64758c" stroke-width="1.5"/>
+    <ellipse cx="-8" cy="1" rx="3" ry="5" fill="#f79b42"/>
+    <path d="m0-26 9 5m-4-9 10 5m7 7 5 5m-2 7 3 3m-4 11 3 3M10 26l8-5" stroke="#64758c" stroke-width="1.5"/>
+  </g>
+  <g id="rover" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Far wheels sit behind the chassis; the four orange hubs remain visible. -->
+    <use href="#wheel" transform="translate(101 36) scale(.87)"/>
+    <use href="#wheel" transform="translate(242 115) scale(.87)"/>
+    <path d="m45 72 63-39 113 76-65 41Z" fill="#142437" stroke="#aab8c8" stroke-width="2"/>
+    <path d="m45 72 1 16 110 78 1-16m0 0 64-41v15l-65 42" fill="#101b2c" stroke="#5d728c" stroke-width="1.6"/>
+    <path d="m54 73 53-32 102 68-54 33Z" fill="none" stroke="#3c536c" stroke-width="1"/>
+    <!-- Motors and shafts are exposed along the near side. -->
+    <path d="m57 86-17 11m119 59-20 12m-44-115 10-8m113 70 17 4" stroke="#f79b42" stroke-width="4"/>
+    <path d="m45 87 12-8 19 13-12 8Zm103 69 12-8 19 13-12 8Z" fill="#5c3a1e" stroke="#f79b42" stroke-width="1.6"/>
+    <use href="#wheel" transform="translate(39 99)"/>
+    <use href="#wheel" transform="translate(149 175)"/>
+    <!-- Controller and visible copper paths on the upper deck. -->
+    <path d="m83 73 41-25 47 32-41 25Z" fill="#123224" stroke="#68c77c" stroke-width="1.5"/>
+    <path d="m105 74 17-10 21 14-17 11Z" fill="#0d1117" stroke="#c0d3c5" stroke-width="1"/>
+    <path d="m93 72 10-6m-2 13 10-6m28 20 11-7m-3 0 10-6" stroke="#e5b876" stroke-width="2"/>
+    <path d="m91 83-17 7 8 13m60-8 14 10 17-10" fill="none" stroke="#3fb950" stroke-width="1.7"/>
+    <!-- An upright two-transducer sensor bar marks the front of the rover. -->
+    <path d="m177 118 0-33m12 24V77" stroke="#b0c4d5" stroke-width="3"/>
+    <path d="m163 81 35-22 15 11-35 23Z" fill="#102f45" stroke="#58a6ff" stroke-width="1.7"/>
+    <g fill="#0d1117" stroke="#8bcbff" stroke-width="1.7"><ellipse cx="177" cy="78" rx="8" ry="11" transform="rotate(32 177 78)"/><ellipse cx="196" cy="66" rx="8" ry="11" transform="rotate(32 196 66)"/></g>
+    <g fill="#58a6ff"><circle cx="177" cy="78" r="2.4"/><circle cx="196" cy="66" r="2.4"/></g>
+    <path d="m220 144 18 12m-23-2 18 12m-24-2 18 12" fill="none" stroke="#f79b42" stroke-width="2" opacity=".7"/>
+  </g>
+</defs><style>
+ text{font-family:Arial,Helvetica,sans-serif} .step{font-size:28px;font-weight:700;letter-spacing:-.5px;fill:#f0f6fc} .detail{font-size:16px;fill:#aebdce} .caption{font-size:14px;fill:#8b9bb0} .signal{fill:none;stroke:#8b949e;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#signal-arrow)}
+</style>
+<rect width="560" height="420" rx="12" fill="#0d1117"/>
+
+<style>.step{font-size:30px}.detail{font-size:18px}.caption{font-size:16px}</style>
+<rect x="25" y="65" width="510" height="298" fill="url(#bench-grid)" opacity=".65"/>
+<path d="M27 21v28" stroke="#58a6ff" stroke-width="4"/>
+<text x="40" y="43" class="step">Sense</text><text x="145" y="42" class="detail">Sensors</text>
+<path d="M309 21v28" stroke="#3fb950" stroke-width="4"/>
+<text x="322" y="43" class="step">Code</text><text x="404" y="42" class="detail">Firmware</text>
+<use href="#sonar" transform="translate(29 92) scale(.95)"/>
+<path d="M217 126h34l15-15h27" class="signal"/>
+<circle cx="241" cy="126" r="3" fill="#58a6ff"/>
+<use href="#controller" transform="translate(309 67) scale(.98)"/>
+<path d="M418 217v28" class="signal"/>
+<circle cx="418" cy="225" r="3" fill="#3fb950"/>
+<path d="M27 270v28" stroke="#f79b42" stroke-width="4"/>
+<text x="40" y="292" class="step">Move</text>
+<text x="40" y="318" class="detail">Motors + wheels</text>
+<use href="#rover" transform="translate(265 208) scale(.81)"/>
+<path d="M26 375h508m-508 0v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3m20 3v-3m20 3v-3m20 3v-6m20 6v-3" fill="none" stroke="#344459"/>
+<text x="26" y="401" class="caption">Conceptual robotics sketch</text>
+
+</svg>
