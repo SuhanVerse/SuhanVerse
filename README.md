@@ -24,6 +24,17 @@
 - 🤝 Open to collaboration on **IoT projects**, **automation systems**, and **tech events**
 ---
 
+## Selected projects
+
+| Project | What it contains |
+| --- | --- |
+| [EdumentX Android](https://github.com/SuhanVerse/EdumentX-Android) | Academic minor project for tutor discovery and enrollment, with a shared Firebase/Supabase backend. |
+| [RoboVault](https://github.com/SuhanVerse/RoboVault) | Robotics-club inventory and lending API built with FastAPI and PostgreSQL. |
+| [VisioBot](https://github.com/SuhanVerse/visiobot) | ROS 2 learning workspace for navigation and vision; hardware validation remains separate. |
+| [All-in-One Arduino Robot](https://github.com/SuhanVerse/All_in_one_Arduino_Robot) | Arduino robot with manual control, line following and obstacle avoidance. |
+
+The [EdumentX iOS repository](https://github.com/SuhanVerse/EdumentX-iOS) is a separate, AI-assisted SwiftUI trial; it is not a finished App Store release.
+
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
